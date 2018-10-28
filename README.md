@@ -1,1 +1,2 @@
-# lab-rabbitmq
+# RabbitMQ lab
+Investigating RabbitMQ library.
